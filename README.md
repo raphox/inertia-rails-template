@@ -16,6 +16,6 @@ To run locally:
 ```
 bundle install
 npm install
-foreman -f Procfile.dev
+foreman start -f Procfile.dev
 ```
 
